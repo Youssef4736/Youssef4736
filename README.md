@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Welcome to my GitHub" width="100%">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Welcome to my GitHub" width="50%">
 	<h2>Welcome to the GitHub Profile of Youssef Mohamed 👋</h2>
 </div>
 
@@ -22,7 +22,7 @@
 
 ### 📢 What's New:
 
-🚀 Latest Project: [Your Project Name](#)  
+🚀 Latest Project: [Creative Minds Academy](#)  
 ✍️ Recent Blog Post: [Link to Blog](#)
 
 ---
